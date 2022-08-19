@@ -1,8 +1,8 @@
 # TheGamingRoom
 1.  Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? 
 
-<div style="text-align: justify "> 
-  The Client, The Gaming Room wants to develop a web-based game that serves multiple platforms based on thier current game, Draw it or Lose it. Their software requires Game and team names must be unique to allow users to check whether a name is in use when choosing a team name, and this application will render images from a large library of stock drawing as clue. </div>
+
+  The Client, The Gaming Room wants to develop a web-based game that serves multiple platforms based on thier current game, Draw it or Lose it. Their software requires Game and team names must be unique to allow users to check whether a name is in use when choosing a team name, and this application will render images from a large library of stock drawing as clue. 
 
 2.  What did you do particularly well in developing this documentation?
 
