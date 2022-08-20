@@ -24,7 +24,16 @@
 
 5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
-&emsp;&emsp;
+&emsp;&emsp;The main needs for the user would be security and storage management. In my software design document, I have explained my <br /> 
+&emsp;&emsp;recommendations in detail regards to these matter. It is important to consider the user's needs when designing because it aim to provide  <br /> 
+&emsp;&emsp;outstanding experience while the user using our application. Also, it is essential to indentify the business constraints in the design  <br /> 
+&emsp;&emsp;document so the client can understand the issue that they may face and consider the options to improve efficency. 
 <br />
 
 6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+&emsp;&emsp;For this project, the UML diagram shows the attribution, methods, relationships and multiplicity of each class; it helped me to visualize  <br /> 
+&emsp;&emsp;the way how the game system is designed before coding. I utilizing the UML diagrams like as a check list while implementing the program <br /> 
+&emsp;&emsp;to ensure everything was in place. A programmer should write sophisticated comprehensive codes but it can be done without deliberation,  <br /> 
+&emsp;&emsp;evaluation and analyzation. Therefore, it is important to start a design document includes requirements, constraints, domain model <br /> 
+&emsp;&emsp;such as UML diagram, psuedocode, or flowchart, evaluation and recommendation before implementing the application.  
